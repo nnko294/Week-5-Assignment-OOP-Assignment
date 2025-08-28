@@ -33,7 +33,7 @@ avengers.update_rating(9.8)
 
 
 # Activity 2: Polymorphism Challenge
-# Let's create a program with animals that have a move() method:
+# Create a program with animals that have a move() method:
 class Animal:
     def move(self):
         pass
